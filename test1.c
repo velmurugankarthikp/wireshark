@@ -19,5 +19,6 @@
 #include<stdio.h>
 void main()
 {
+printf("HI");
 printf("hello this is manikandan");
 }
